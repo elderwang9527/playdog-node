@@ -1,3 +1,2 @@
-# subplay
-test
-2021a
+# Subplay
+Subplay is a substrate playground
